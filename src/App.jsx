@@ -6,7 +6,7 @@ import minimalPhoneImg from './assets/minimal-phone.png';
 import womenCalculatingImg from './assets/women-calculating-artillery-1940s.png';
 import mechanicalOfficeImg from './assets/Early-20th-century-clerical-office.png';
 import jpegImg from './assets/JPEG-Question.png';
-import powerGridImg from './assets/Power-grid.png';
+import powerGridImg from './assets/power-grid.png';
 import neuralNetworkImg from './assets/Neural-network.png';
 
 import selfCheckoutImg from './assets/Self-checkout-kiosk.png';
