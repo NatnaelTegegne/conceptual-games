@@ -7,18 +7,18 @@ import womenCalculatingImg from './assets/women-calculating-artillery-1940s.png'
 import mechanicalOfficeImg from './assets/Early-20th-century-clerical-office.png';
 import jpegImg from './assets/JPEG-Question.png';
 import powerGridImg from './assets/power-grid.png';
-import neuralNetworkImg from './assets/Neural-network.png';
+import neuralNetworkImg from './assets/neural-network.png';
 
 import selfCheckoutImg from './assets/Self-checkout-kiosk.png';
 import punchCardWomenImg from './assets/Women-with-punch-card-machine.png';
 import biometricGraphImg from './assets/Biometric-heart-rate-monitor-graph.png';
 import cookiesSettingsImg from './assets/Cookies-settings.png';
-import atmMachineImg from './assets/ATM-machine.png';
-import barcodeScannerImg from './assets/Barcode-scanner.png';
+import atmMachineImg from './assets/atm-machine.png';
+import barcodeScannerImg from './assets/barcode-scanner.png';
 import womenAtNasaImg from './assets/women-at-nasa-doing-math.png';
 import factoryRoboticsImg from './assets/factory-robot.png';
 import trafficLightImg from './assets/traffic-lights.png';
-import antColonyImg from './assets/Ant-colony.png';
+import antColonyImg from './assets/ant-colony.png';
 import ghostWorkLaborImg from './assets/content-moderation.png';
 import dataCenterImg from './assets/data-center-server-rack.png';
 
