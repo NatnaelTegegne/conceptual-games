@@ -831,25 +831,26 @@ export default function App() {
       title: 'What Is A Computer?',
       description: 'A confrontational exploration of definitions, labor, and the hidden histories of computation.',
       available: true,
-    },
-    {
-      id: 'build-society',
-      title: 'Build Your Perfect Society',
-      description: 'Design utopia. Discover its costs.',
-      available: false,
-    },
-    {
-      id: 'attention-economy',
-      title: 'Attention Economy Simulator',
-      description: 'Your time is currency. Watch it drain.',
-      available: false,
-    },
-    {
-      id: 'data-double',
-      title: 'Data Double',
-      description: 'Meet the version of you that exists in databases.',
-      available: false,
-    },
+    }
+    //,
+    // {
+    //   id: 'build-society',
+    //   title: 'Build Your Perfect Society',
+    //   description: 'Design utopia. Discover its costs.',
+    //   available: false,
+    // },
+    // {
+    //   id: 'attention-economy',
+    //   title: 'Attention Economy Simulator',
+    //   description: 'Your time is currency. Watch it drain.',
+    //   available: false,
+    // },
+    // {
+    //   id: 'data-double',
+    //   title: 'Data Double',
+    //   description: 'Meet the version of you that exists in databases.',
+    //   available: false,
+    // },
   ];
 
   const handleNavigate = (page) => {
